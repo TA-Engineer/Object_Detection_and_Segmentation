@@ -11,3 +11,7 @@ After the bounding boxes are discovered we create a mask for segmentation of car
 
 
 Future Work: Applying Mask R-CNN on images to find better segmentation of images.
+
+
+## NOTE: Weights for YOLOv3 and CFG files are missing due to large size. PLease download them trained on COCO dataset from Alexnet repository.
+
